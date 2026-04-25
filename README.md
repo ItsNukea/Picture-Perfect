@@ -1,4 +1,4 @@
-## Welcome to the Pictureperfect Github page
+## Welcome to the Pictureperfect GitHub page
 
 If you find any issues, you can create them in the [Issues](https://github.com/ItsNukea/Picture-Perfect/issues) tab
 When creating an issue, please make sure all the following information is given:
